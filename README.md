@@ -3,7 +3,7 @@ In this repository exists a tutorial that teach how to setup a dev ambient with 
 
 # Laradock with SQL Server!
 
-Start the container with the images what you want
+Start the container with the images that you want
 
     docker-compose up -d nginx mssql
 
